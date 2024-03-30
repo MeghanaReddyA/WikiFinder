@@ -1,0 +1,50 @@
+.bg-container{
+    font-family: "Roboto";
+    padding-left:0px;
+}
+
+.wiki-search-header{
+    border: solid;
+    border-width: 1px;
+    border-color: rgb(222, 217, 217);
+}
+
+.wiki-img{
+    width: 150px;
+    height: 150px;
+    margin-top: 18px;
+}
+
+.search-input{
+    font-size: 18px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #d5cdcd;
+    border-radius: 3px;
+    padding: 10px;
+    margin: 20px;
+}
+
+.search-results{
+    padding-left: 20px;
+    width: 100%;
+}
+
+.result-container{
+    padding-left: 10px;
+    font-family: "Roboto";
+}
+
+.result-title{
+    font-size: 30px;
+}
+
+.result-url{
+    color: green;
+    font-size: 15px;
+}
+
+.result-description{
+    font-size: 18px;
+    color: #2a2929;
+}
